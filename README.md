@@ -134,6 +134,11 @@ Hotkey list:
 | Left | ← |
 | Right | → |
 
+Emoji:
+&#128123;
+Markup : [&#128123]
+
+
 
 
 
